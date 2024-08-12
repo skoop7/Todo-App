@@ -20,7 +20,7 @@ Follow these steps to get the application up and running:
 First, clone the repository to your local machine. Open a terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/skoop7/todo-application.git
+git clone https://github.com/skoop7/Todo-App.git
 ```
 
 ### 2. Navigate to the Project Directory
